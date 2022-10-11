@@ -33,6 +33,8 @@
 	<Property Name="Serialized ACL" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Data Types" Type="Folder">
+		<Item Name="File Load Options.ctl" Type="VI" URL="../File Load Options.ctl"/>
+		<Item Name="SequenceFile Type.ctl" Type="VI" URL="../SequenceFile Type.ctl"/>
 		<Item Name="TS License Type.ctl" Type="VI" URL="../TS License Type.ctl"/>
 		<Item Name="UIMsg.ctl" Type="VI" URL="../UIMsg.ctl"/>
 	</Item>
@@ -51,6 +53,7 @@
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Convert License.vi" Type="VI" URL="../Convert License.vi"/>
+		<Item Name="Convert SequenceFile Type.vi" Type="VI" URL="../Convert SequenceFile Type.vi"/>
 		<Item Name="Convert UIMsg Event.vi" Type="VI" URL="../Convert UIMsg Event.vi"/>
 	</Item>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
