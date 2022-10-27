@@ -49,5 +49,6 @@
 	<Item Name="Report.lvclass" Type="LVClass" URL="../Report/Report.lvclass"/>
 	<Item Name="Sequence.lvclass" Type="LVClass" URL="../Sequence/Sequence.lvclass"/>
 	<Item Name="SequenceFile.lvclass" Type="LVClass" URL="../SequenceFile/SequenceFile.lvclass"/>
+	<Item Name="Step.lvclass" Type="LVClass" URL="../Step/Step.lvclass"/>
 	<Item Name="UIMessage.lvclass" Type="LVClass" URL="../UIMessage/UIMessage.lvclass"/>
 </Library>

@@ -42,7 +42,10 @@
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Data Types" Type="Folder"/>
+		<Item Name="Data Types" Type="Folder">
+			<Item Name="Error Response Notifier.ctl" Type="VI" URL="../Error Response Notifier.ctl"/>
+			<Item Name="Error Response.ctl" Type="VI" URL="../Error Response.ctl"/>
+		</Item>
 		<Item Name="Events" Type="Folder">
 			<Item Name="Fire Single Event.vim" Type="VI" URL="../Fire Single Event.vim"/>
 		</Item>
