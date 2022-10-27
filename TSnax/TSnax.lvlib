@@ -40,6 +40,7 @@
 		<Item Name="Convert License.vi" Type="VI" URL="../Convert License.vi"/>
 		<Item Name="Convert SequenceFile Type.vi" Type="VI" URL="../Convert SequenceFile Type.vi"/>
 		<Item Name="Convert UIMsg Event.vi" Type="VI" URL="../Convert UIMsg Event.vi"/>
+		<Item Name="Request With Response.vim" Type="VI" URL="../Request With Response.vim"/>
 	</Item>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
 	<Item Name="Execution.lvclass" Type="LVClass" URL="../Execution/Execution.lvclass"/>
