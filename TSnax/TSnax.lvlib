@@ -9,7 +9,9 @@
 	<Property Name="Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2020\data</Property>
 	<Property Name="Enable Alarms Logging" Type="Bool">true</Property>
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*3!!!*Q(C=\&gt;1R&lt;B."&amp;-&lt;R$U2"[RMA&amp;WZ3PA017.T!6XA5C.IFF,\#[\&lt;?#[2QF9\C(3'OUK+FJ'0ZT_S,2221'I+1EBX0RPZG:^YPM[O6_P&amp;;?K8ZI7.9DMXQW_.W@,-:7(&amp;94H@(.XW9M`LHXHS'_H!@8.:9PL47RZ@BGKRT;Z^7PY;(W`,,W(H_(_W^PJ[0Z_.J(Z]@?A5]0O'&amp;WIO)HP3A/^X53M^*HO2*HO2*HO2"(O2"(O2"(O2/\O2/\O2/\O2'&lt;O2'&lt;O2'&lt;O3^E9N=Z#+(F"20#C7,*AME&amp;U.2=EI]C3@R*"Z_+P%EHM34?")0FSDR**\%EXA3$^/5?"*0YEE]C9?FOC2\)]?4?&amp;B?A3@Q"*\!%XAIK=!4!)*CQ=,")D!5$!:@!E`A#4R]6?!*0)%H]!1?BB6Y!E`A#4S"BSF^6[*L7C0(QT*S0)\(]4A?R]03=DS/R`%Y(M&gt;$/4E?R_-AH),/YB$E4()O=(YY(M@$(TE?R_.Y()`D9;D@)?]\UT3NE?-R0)&lt;(]"A?Q]-3-DS'R`!9(M0$MD)]BM@Q'"\$1SE:(M.D?!S)5:4S-B9T*BI8'9(BY&gt;/@&amp;ONX+&lt;L%?J0KY65^F+K(4@51K2Y/V5V8X5T646*NPGJ46:OFWA460[&gt;#KT#K)KL*\5*.H%`U)XWE(_B\_I[_J;`JKT&lt;V,V]Y4:./JZ//R[0'=&gt;4B=."_P^&gt;ON^.WO^6[P&gt;:KN4K`"N\1TC_%?C^^GO=@\^\/VR`H_=PU`O,KWXBZ]`8$R@&gt;`]F\[(^[.?KF@[\"(0Q%OTF".!!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">TSnax</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
@@ -33,6 +35,18 @@
 	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
 	<Property Name="Serialized ACL" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="Callback Types" Type="Folder">
+		<Item Name="UIMessage Callback Type.vit" Type="VI" URL="../UIMessage Callback Type.vit"/>
+	</Item>
+	<Item Name="Data Types" Type="Folder">
+		<Item Name="Common StepType Subproperties.ctl" Type="VI" URL="../Common StepType Subproperties.ctl"/>
+		<Item Name="Execution Options.ctl" Type="VI" URL="../Execution Options.ctl"/>
+		<Item Name="File Load Options.ctl" Type="VI" URL="../File Load Options.ctl"/>
+		<Item Name="SequenceFile Type.ctl" Type="VI" URL="../SequenceFile Type.ctl"/>
+		<Item Name="Step Group.ctl" Type="VI" URL="../Step Group.ctl"/>
+		<Item Name="TS License Type.ctl" Type="VI" URL="../TS License Type.ctl"/>
+		<Item Name="UIMsg.ctl" Type="VI" URL="../UIMsg.ctl"/>
+	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>

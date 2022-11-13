@@ -9,7 +9,9 @@
 	<Property Name="Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2020\data</Property>
 	<Property Name="Enable Alarms Logging" Type="Bool">true</Property>
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)W!!!*Q(C=\&gt;3^43N"&amp;)&lt;B$X1$5H?!X-*JQ1%.&lt;!G=&amp;JQ[&gt;-C^9)H4ADOQH&amp;$!#5H&gt;AFN9XBE@72=MY12,3$$$W/NP`BZG6SPV=C0^U8CO&lt;$YN^0=R*Q.&lt;VOJ9FS=4X`5@PONCX)QH`@8LW0&gt;R`&lt;&amp;_(_&gt;8TVG`@MNP_&gt;FF=?Y6=(H#F&gt;K,C*;UI$H.V,9?ETT*ETT*ETT*ATT)ATT)ATT)H&gt;T*H&gt;T*H&gt;T*D&gt;T)D&gt;T)D&gt;T)?S58O=B&amp;$CH:0.EI742:)"E-2=F(YEE]C3@R]&amp;/**`%EHM34?"CCR*.Y%E`C34R-5_**0)EH]31?FOK3\*5=4_*B?17?Q".Y!E`A95M&amp;HA!1&lt;"9M(#Q#1U&amp;H="&amp;Y!E`AY6+"*`!%HM!4?/B7Y!E]A3@Q""[G^&amp;/*LGG6(!`,S0%Y(M@D?"Q03]PR/"\(YXA=$^P*]4A?"_&amp;M[#Q/1=YE:Y$TQ`%Y(L\E?"S0YX%]DI?O@I?]HUT4N%K/R`!9(M.D?!Q03]DQ'"\$9XA-$]P+]"A?QW.Y$!^&lt;S@!9(M.D1)R.W6\'9M:%9Z!2'"\__N.C`3Z&amp;FVCP5DW]KI&gt;3^&lt;#J(C,6Q['[[;K&lt;K&lt;J*KM.8(;LKM&amp;3(I0LH6'A62L7*;H)&lt;K$W@/^K7NK9N;80;1*P2JL2*G`L&amp;!`@\P8;\H&lt;&lt;&lt;L&gt;&lt;LN:&lt;,J?&lt;TO9:BU'QWUX1[V71S/&lt;Y'&lt;KH(&amp;],BP&lt;4A?P/CV4^J^@@Z&gt;@5QX+U?HV\P&amp;Y=RFS\@Y.WI;`W`$W@U"E;/BWM!!!!!</Property>
+	<Property Name="NI.Lib.LocalName" Type="Str">TSnax UI</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
@@ -45,6 +47,8 @@
 		<Item Name="Data Types" Type="Folder">
 			<Item Name="Error Response Notifier.ctl" Type="VI" URL="../Error Response Notifier.ctl"/>
 			<Item Name="Error Response.ctl" Type="VI" URL="../Error Response.ctl"/>
+			<Item Name="Step Drag Data.ctl" Type="VI" URL="../Step Drag Data.ctl"/>
+			<Item Name="Step Drag Source.ctl" Type="VI" URL="../Step Drag Source.ctl"/>
 		</Item>
 		<Item Name="Events" Type="Folder">
 			<Item Name="Fire Single Event.vim" Type="VI" URL="../Fire Single Event.vim"/>

@@ -40,18 +40,32 @@
 		<Item Name="Data Types" Type="Folder"/>
 	</Item>
 	<Item Name="Properties" Type="Folder">
+		<Item Name="Path" Type="Property Definition">
+			<Property Name="NI.ClassItem.Property.LongName" Type="Str">Path</Property>
+			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Path</Property>
+			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
+			<Item Name="Get Path.vi" Type="VI" URL="../Get Path.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;&gt;!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-P````]%5'&amp;U;!!!3E"Q!"Y!!#A,6&amp;.O98AO&lt;(:M;7);5(*P='6S&gt;(F09GJF9X2';7RF,GRW9WRB=X-!!":1=G^Q:8*U?5^C;G6D&gt;%:J&lt;'5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!%B!=!!?!!!I#V24&lt;G&amp;Y,GRW&lt;'FC'F"S&lt;X"F=H2Z4W*K:7.U2GFM:3ZM&gt;G.M98.T!!!65(*P='6S&gt;(F09GJF9X2';7RF)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!"!!)!Q!!?!!!$1A!!!!!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!#1!!!!!!%!#1!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+			</Item>
+		</Item>
 		<Item Name="PropertyObjectFile Ref" Type="Property Definition">
 			<Property Name="NI.ClassItem.Property.LongName" Type="Str">PropertyObjectFile Ref</Property>
 			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">PropertyObjectFile Ref</Property>
 			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
 			<Item Name="PropertyObjectFile Ref.vi" Type="VI" URL="../PropertyObjectFile Ref.vi">
-				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'I!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%R!=!!(!1)!!!!"MHF/]]#W%&gt;#4H!!ALWDIEQ!!!!3@,&lt;Z!(&lt;Q2U[_A!'#8NZ\V!!!!!1!!!!!35(*P='6S&gt;(F09GJF9X2';7RF!!"+1(!!(A!!+!N55WZB?#ZM&gt;GRJ9BJ1=G^Q:8*U?5^C;G6D&gt;%:J&lt;'5O&lt;(:D&lt;'&amp;T=Q!!&amp;F"S&lt;X"F=H2Z4W*K:7.U2GFM:3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!3%"Q!"Y!!#A,6&amp;.O98AO&lt;(:M;7);5(*P='6S&gt;(F09GJF9X2';7RF,GRW9WRB=X-!!"61=G^Q:8*U?5^C;G6D&gt;%:J&lt;'5A;7Y!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!"!!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'I!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%R!=!!(!1)!!!!"MHF/]]#W%&gt;#4H!!ALWDIEQ!!!!3@,&lt;Z!(&lt;Q2U[_A!'#8NZ\V!!!!!1!!!!!35(*P='6S&gt;(F09GJF9X2';7RF!!"+1(!!(A!!+!N55WZB?#ZM&gt;GRJ9BJ1=G^Q:8*U?5^C;G6D&gt;%:J&lt;'5O&lt;(:D&lt;'&amp;T=Q!!&amp;F"S&lt;X"F=H2Z4W*K:7.U2GFM:3"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!3%"Q!"Y!!#A,6&amp;.O98AO&lt;(:M;7);5(*P='6S&gt;(F09GJF9X2';7RF,GRW9WRB=X-!!"61=G^Q:8*U?5^C;G6D&gt;%:J&lt;'5A;7Y!91$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!%!!A$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#1!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-				<Property Name="NI.ClassItem.Flags" Type="Int">33554432</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-				<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
 			</Item>
 		</Item>
 	</Item>
